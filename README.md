@@ -11,6 +11,6 @@
 3) Open (fileName.PWB) file to being the simulation.
 
 # Downloading MatLab 
-1) Download and Install MATLAB: Visit the MathWorks website [MatLab] (https://www.mathworks.com/help/install/ug/install-products-with-internet-connection.html) and download the installer for your specific operating system (Windows, Mac, Linux, etc.).
+1) Download and Install MATLAB: Visit the MathWorks website [MatLab](https://www.mathworks.com/help/install/ug/install-products-with-internet-connection.html) and download the installer for your specific operating system. 
 2) Follow Installation Instructions: Once downloaded, double-click the installer and follow the on-screen prompts to complete the installation process.
 3) Login with UW ID: After successful installation, launch MATLAB and log in using your UW ID credentials.
